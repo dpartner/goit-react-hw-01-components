@@ -12,6 +12,7 @@
   border-radius: 5px;
   border: 1px solid rgb(139, 139, 139);
   overflow: hidden;
+  margin-bottom: 100px;
 }
 
 .description {

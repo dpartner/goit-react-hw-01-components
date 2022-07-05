@@ -1,0 +1,17 @@
+.transaction__history {
+  font-size: 16px;
+  background-color: #fff;
+  width: 840px;
+  /* padding: 50px 0 0 0; */
+  box-shadow: rgba(149, 157, 165, 0.2) 0px 20px 24px;
+  border-radius: 5px;
+  border: 1px solid rgb(139, 139, 139);
+  overflow: hidden;
+}
+
+.head {
+  height: 30px;
+  background-color: turquoise;
+  color: #fff;
+  text-transform: uppercase;
+}
